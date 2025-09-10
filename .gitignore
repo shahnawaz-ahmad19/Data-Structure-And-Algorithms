@@ -1,6 +1,15 @@
-src/Lecture02/Pattern01.class
-bin/Lecture02/Pattern04.class
-bin/Lecture02/Pattern03.class
-bin/Lecture02/Pattern02.class
-bin/Lecture02/Pattern01.class
+# Java compiled files
 .vscode/settings.json
+
+# Compiled files
+*.class
+
+# Build directories
+/target/
+/bin/
+/out/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
