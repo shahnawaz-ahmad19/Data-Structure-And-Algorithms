@@ -1,18 +1,15 @@
-## Getting Started
+📘 DSA Practice Repository
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems while following the Coding Blocks course.
 
-## Folder Structure
+📂 Structure
 
-The workspace contains two folders by default, where:
+Problems are organized by lectures / topics.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Each file is named according to the problem statement (e.g., Pattern01.java, Pattern02.java, etc.).
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Source code is inside the src/ folder.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
