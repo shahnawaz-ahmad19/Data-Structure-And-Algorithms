@@ -1,5 +1,17 @@
 package Lecture02;
 
+
+/*  
+        
+               
+                *
+            * *
+        * * *
+    * * * *
+* * * * *
+
+ */
+
 import java.util.Scanner;
 
 public class Patternt06Reverse {
@@ -13,12 +25,12 @@ public class Patternt06Reverse {
     while(row<=n){
       int i = 1;
       while(i<=space){
-        System.out.print(" "+"\t");
+        System.out.print("  ");
         i++;
       }
       int j = 1;
       while(j<=star){
-        System.out.print("*"+"\t");
+        System.out.print("* ");
         j++;
       }
       row++;

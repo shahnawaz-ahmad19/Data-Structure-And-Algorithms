@@ -1,5 +1,15 @@
 package Lecture02;
 
+
+/*  
+                                *
+                        *       *
+                *       *       *
+        *       *       *       *
+*       *       *       *       *
+ */
+
+
 import java.util.Scanner;
 
 public class Pattern04 {

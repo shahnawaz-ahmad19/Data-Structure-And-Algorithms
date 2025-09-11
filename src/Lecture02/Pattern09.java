@@ -1,27 +1,22 @@
 package Lecture02;
 
-
-/*  
-  
- * * * * *
-    * * * *
-        * * *
-            * *
-                *
-
-
+/*   
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
  */
 
 import java.util.Scanner;
 
-public class Pattern06 {
+public class Pattern09 {
   public static void main(String[] args) {
-    System.out.println("Enter the number of rows!");
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();
-    int star = n;
+    int star = 1;
     int row =1;
-    int space = 0;
+    int space = n-1;
     while(row<=n){
       int i = 1;
       while(i<=space){
@@ -33,10 +28,10 @@ public class Pattern06 {
         System.out.print("* ");
         j++;
       }
-      row++;
-      star--;
-      space+=2;
       System.out.println();
+      star+=2;
+      space--;
+      row++;
     }
   }
 
