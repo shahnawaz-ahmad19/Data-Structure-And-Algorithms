@@ -1,7 +1,7 @@
 package Lecture02;
 
 /*  
-
+for n=5
 * * * * * 
 * * * * 
 * * * 

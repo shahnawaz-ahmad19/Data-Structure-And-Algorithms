@@ -1,5 +1,14 @@
 package Lecture02;
 
+/*
+for n=5  
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * *
+ */
+
 import java.util.Scanner;
 
 public class Pattern01 {

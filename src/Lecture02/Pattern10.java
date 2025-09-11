@@ -3,6 +3,7 @@ package Lecture02;
 import java.util.Scanner;
 
 /* 
+for n=5
 * * * * * * * * * 
   * * * * * * * 
     * * * * * 
