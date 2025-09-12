@@ -18,7 +18,7 @@ public class Pattern19 {
     int n = sc.nextInt();
     int star = n-3;
     int row =1;
-    int space = -1;
+    int space = -1; //asume space starts from -1 so that it increase by 2 . -1, 1, 3, 5...
     while(row<=n){
       //for star printing
       int i = 1;
@@ -41,13 +41,14 @@ public class Pattern19 {
         System.out.print("* ");
         k++;
       }
+      //applying mirroring logic
       if(row<n/2+1){
         star--;
         space+=2;
       }else{
         star++;
         space-=2;
-      }
+      } 
       row++;
       System.out.println();
     }
