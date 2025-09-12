@@ -36,4 +36,10 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Pattern18 | [View Code](src/Lecture03/Pattern18.java) |
 | Pattern19 | [View Code](src/Lecture03/Pattern19.java) |
 | Pattern20 | [View Code](src/Lecture03/Pattern20.java) |
+| Pattern23 | [View Code](src/Lecture03/Pattern23.java) |
+| Pattern24 | [View Code](src/Lecture03/Pattern24.java) |
+| Pattern25 | [View Code](src/Lecture03/Pattern25.java) |
+| Pattern26 | [View Code](src/Lecture03/Pattern26.java) |
+| Pattern27 | [View Code](src/Lecture03/Pattern27.java) |
+| Pattern_Hard | [View Code](src/Lecture03/Pattern_Hard.java) |
 
