@@ -6,6 +6,8 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 
 ## 📑 Problem Index
 
+## 🎓 Lectures
+
 ### Lecture02
 
 | Problem Name | Solution Link |
@@ -53,4 +55,13 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Fibonacci | [View Code](src/Lecture04/Fibonacci.java) |
 | GCD | [View Code](src/Lecture04/GCD.java) |
 | Sum_Of_Digits | [View Code](src/Lecture04/Sum_Of_Digits.java) |
+
+
+## 📝 Assignments
+
+### Assignment01
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Pascal_Triangle_Pattern03 | [View Code](src/Assignment01_Pattern/Pascal_Triangle_Pattern03.java) |
 
