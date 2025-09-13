@@ -43,3 +43,14 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Pattern27 | [View Code](src/Lecture03/Pattern27.java) |
 | Pattern_Hard | [View Code](src/Lecture03/Pattern_Hard.java) |
 
+
+### Lecture04
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Break_Statement_Using_Loop | [View Code](src/Lecture04/Break_Statement_Using_Loop.java) |
+| Check_Prime | [View Code](src/Lecture04/Check_Prime.java) |
+| Fibonacci | [View Code](src/Lecture04/Fibonacci.java) |
+| GCD | [View Code](src/Lecture04/GCD.java) |
+| Sum_Of_Digits | [View Code](src/Lecture04/Sum_Of_Digits.java) |
+
