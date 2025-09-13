@@ -59,7 +59,7 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 
 ## 📝 Assignments
 
-### Assignment01
+### Assignment01_Pattern
 
 | Problem Name | Solution Link |
 |--------------|---------------|

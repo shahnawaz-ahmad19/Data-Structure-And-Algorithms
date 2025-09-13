@@ -25,13 +25,9 @@ for folder, problem, path in problems:
     elif re.match(r"Assignment\d+", folder, re.IGNORECASE):
         assignments.setdefault(folder, []).append((problem, path))
 
-# ✅ Clean heading (remove suffix like _Pattern, etc.)
-def clean_heading(name):
-    match = re.match(r"(Lecture\d+|Assignment\d+)", name, re.IGNORECASE)
-    return match.group(1) if match else name
-
 # ✅ Sorting helpers
-def sort_key(name):
+def extract_number(name):
+    """Extract trailing digits from LectureXX or AssignmentXX, default inf"""
     match = re.search(r"(\d+)", name)
     return int(match.group()) if match else float("inf")
 
@@ -49,9 +45,8 @@ lines.append("## 📑 Problem Index\n")
 # ---------------- Lectures ----------------
 if lectures:
     lines.append("## 🎓 Lectures\n")
-    for folder in sorted(lectures.keys(), key=sort_key):
-        heading = clean_heading(folder)
-        lines.append(f"### {heading}\n")
+    for folder in sorted(lectures.keys(), key=extract_number):
+        lines.append(f"### {folder}\n")  # Keep full folder name (Lecture01, Lecture02…)
         lines.append("| Problem Name | Solution Link |")
         lines.append("|--------------|---------------|")
         for problem, path in sorted(lectures[folder], key=problem_sort_key):
@@ -61,9 +56,8 @@ if lectures:
 # ---------------- Assignments ----------------
 if assignments:
     lines.append("## 📝 Assignments\n")
-    for folder in sorted(assignments.keys(), key=sort_key):
-        heading = clean_heading(folder)
-        lines.append(f"### {heading}\n")
+    for folder in sorted(assignments.keys(), key=extract_number):
+        lines.append(f"### {folder}\n")  # Keep suffix like Assignment08_Tree
         lines.append("| Problem Name | Solution Link |")
         lines.append("|--------------|---------------|")
         for problem, path in sorted(assignments[folder], key=problem_sort_key):
