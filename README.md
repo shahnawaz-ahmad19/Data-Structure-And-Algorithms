@@ -65,6 +65,13 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Decimal_To_Binary | [View Code](src/Lecture05/Decimal_To_Binary.java) |
 
 
+### Lecture08
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| ArmstrongNumber | [View Code](src/Lecture08/ArmstrongNumber.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
