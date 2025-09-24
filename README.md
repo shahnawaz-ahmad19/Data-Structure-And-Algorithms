@@ -72,6 +72,14 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | ArmstrongNumber | [View Code](src/Lecture08/ArmstrongNumber.java) |
 
 
+### Lecture09
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Linear_Search | [View Code](src/Lecture09/Linear_Search.java) |
+| Max_Array | [View Code](src/Lecture09/Max_Array.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
