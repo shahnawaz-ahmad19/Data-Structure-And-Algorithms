@@ -57,6 +57,14 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Sum_Of_Digits | [View Code](src/Lecture04/Sum_Of_Digits.java) |
 
 
+### Lecture05
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Binary_To_Decimal | [View Code](src/Lecture05/Binary_To_Decimal.java) |
+| Decimal_To_Binary | [View Code](src/Lecture05/Decimal_To_Binary.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
@@ -64,4 +72,12 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Problem Name | Solution Link |
 |--------------|---------------|
 | Pascal_Triangle_Pattern03 | [View Code](src/Assignment01_Pattern/Pascal_Triangle_Pattern03.java) |
+
+
+### Assignment02_NumberSystemAndDataTypes
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Conversion_FahrenheitToCelsius | [View Code](src/Assignment02_NumberSystemAndDataTypes/Conversion_FahrenheitToCelsius.java) |
+| InverseOfNumber | [View Code](src/Assignment02_NumberSystemAndDataTypes/InverseOfNumber.java) |
 
