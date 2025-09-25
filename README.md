@@ -87,6 +87,8 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Arrays_Input | [View Code](src/Lecture10/Arrays_Input.java) |
 | Reverse_Array | [View Code](src/Lecture10/Reverse_Array.java) |
 | Reversing_Certain_Part_Of_Aarray | [View Code](src/Lecture10/Reversing_Certain_Part_Of_Aarray.java) |
+| Rotate_Array | [View Code](src/Lecture10/Rotate_Array.java) |
+| Rotate_Array_Optimized | [View Code](src/Lecture10/Rotate_Array_Optimized.java) |
 
 
 ## 📝 Assignments
