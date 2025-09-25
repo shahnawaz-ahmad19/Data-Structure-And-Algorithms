@@ -80,6 +80,14 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Max_Array | [View Code](src/Lecture09/Max_Array.java) |
 
 
+### Lecture10
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Arrays_Input | [View Code](src/Lecture10/Arrays_Input.java) |
+| Reverse_Array | [View Code](src/Lecture10/Reverse_Array.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
