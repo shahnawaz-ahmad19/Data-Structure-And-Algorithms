@@ -91,6 +91,23 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Rotate_Array_Optimized | [View Code](src/Lecture10/Rotate_Array_Optimized.java) |
 
 
+### Lecture11
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Bubble_Sort | [View Code](src/Lecture11/Bubble_Sort.java) |
+| Insertion_Sort | [View Code](src/Lecture11/Insertion_Sort.java) |
+| Selection_Sort | [View Code](src/Lecture11/Selection_Sort.java) |
+
+
+### Lecture12
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Product_Of_Array_Except_Self | [View Code](src/Lecture12/Product_Of_Array_Except_Self.java) |
+| Trapping_Rain_Water | [View Code](src/Lecture12/Trapping_Rain_Water.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
