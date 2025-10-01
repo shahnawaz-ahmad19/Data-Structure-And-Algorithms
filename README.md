@@ -108,6 +108,17 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Trapping_Rain_Water | [View Code](src/Lecture12/Trapping_Rain_Water.java) |
 
 
+### Lecture13
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Binary_Search | [View Code](src/Lecture13/Binary_Search.java) |
+| First_Bad_Version | [View Code](src/Lecture13/First_Bad_Version.java) |
+| Kadens_Algorithm | [View Code](src/Lecture13/Kadens_Algorithm.java) |
+| Kth_Root | [View Code](src/Lecture13/Kth_Root.java) |
+| Maximum_Subarray | [View Code](src/Lecture13/Maximum_Subarray.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
