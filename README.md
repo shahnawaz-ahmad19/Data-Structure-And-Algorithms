@@ -119,6 +119,14 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Maximum_Subarray | [View Code](src/Lecture13/Maximum_Subarray.java) |
 
 
+### Lecture14
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Taking_User_Input_2DArray | [View Code](src/Lecture14/Taking_User_Input_2DArray.java) |
+| Two_2d_Arrays | [View Code](src/Lecture14/Two_2d_Arrays.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
