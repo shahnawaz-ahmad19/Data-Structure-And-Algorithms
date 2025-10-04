@@ -127,6 +127,16 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Two_2d_Arrays | [View Code](src/Lecture14/Two_2d_Arrays.java) |
 
 
+### Lecture15
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Search_2D_Matrix | [View Code](src/Lecture15/Search_2D_Matrix.java) |
+| Spiral_Print | [View Code](src/Lecture15/Spiral_Print.java) |
+| Transpose | [View Code](src/Lecture15/Transpose.java) |
+| Wave_Print | [View Code](src/Lecture15/Wave_Print.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
