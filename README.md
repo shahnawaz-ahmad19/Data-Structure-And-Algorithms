@@ -137,6 +137,13 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Wave_Print | [View Code](src/Lecture15/Wave_Print.java) |
 
 
+### Lecture16
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Aggressive_Cows | [View Code](src/Lecture16/Aggressive_Cows.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
