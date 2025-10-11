@@ -1,4 +1,5 @@
 /*
+ * Asked in Google
  * Aggressive Cows
 Given an array stalls[] representing the positions of stalls and an integer k denoting the number of aggressive cows, place the cows in the stalls such that the minimum distance between any two cows is as large as possible. Return this maximum possible minimum distance.
 
@@ -11,6 +12,8 @@ Explanation: We can place cow 1 at position 1, cow 2 at position 4 and cow 3 at 
 Input: stalls[] = [6, 7,  9, 11, 13, 15], k = 4
 Output: 2
 Explanation: We can place cow 1 at position 6, cow 2 at position 9, cow 3 at position 11 and cow 4 at position 15. So, the maximum possible minimum distance between two cows is 2.
+
+
  */
 package Lecture16;
 

@@ -142,6 +142,17 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Problem Name | Solution Link |
 |--------------|---------------|
 | Aggressive_Cows | [View Code](src/Lecture16/Aggressive_Cows.java) |
+| Book_Allocation | [View Code](src/Lecture16/Book_Allocation.java) |
+
+
+### Lecture17
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Comparing_String_Lexicographically | [View Code](src/Lecture17/Comparing_String_Lexicographically.java) |
+| Equals | [View Code](src/Lecture17/Equals.java) |
+| Is_Palindrome | [View Code](src/Lecture17/Is_Palindrome.java) |
+| Print_All_Substring | [View Code](src/Lecture17/Print_All_Substring.java) |
 
 
 ## 📝 Assignments
