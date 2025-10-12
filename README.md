@@ -155,6 +155,14 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Print_All_Substring | [View Code](src/Lecture17/Print_All_Substring.java) |
 
 
+### Lecture18
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| CB_Number | [View Code](src/Lecture18/CB_Number.java) |
+| Print_Substring_Lengthwise | [View Code](src/Lecture18/Print_Substring_Lengthwise.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
