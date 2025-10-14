@@ -163,6 +163,15 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Print_Substring_Lengthwise | [View Code](src/Lecture18/Print_Substring_Lengthwise.java) |
 
 
+### Lecture19
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| ArrayLIst_Demo | [View Code](src/Lecture19/ArrayLIst_Demo.java) |
+| ArrayList_Working | [View Code](src/Lecture19/ArrayList_Working.java) |
+| Java_Program_to_Merge_Two_Arrays | [View Code](src/Lecture19/Java_Program_to_Merge_Two_Arrays.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
