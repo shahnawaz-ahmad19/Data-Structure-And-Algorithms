@@ -181,6 +181,16 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Subarray_Product_LessThan_K | [View Code](src/Lecture20/Subarray_Product_LessThan_K.java) |
 
 
+### Lecture21
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Factorial | [View Code](src/Lecture21/Factorial.java) |
+| PowerExample | [View Code](src/Lecture21/PowerExample.java) |
+| PrintInDecreasingOrder | [View Code](src/Lecture21/PrintInDecreasingOrder.java) |
+| PrintInIncreasingOrder | [View Code](src/Lecture21/PrintInIncreasingOrder.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
