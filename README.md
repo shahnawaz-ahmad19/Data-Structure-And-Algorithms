@@ -172,6 +172,15 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Java_Program_to_Merge_Two_Arrays | [View Code](src/Lecture19/Java_Program_to_Merge_Two_Arrays.java) |
 
 
+### Lecture20
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Kartik_Bhaiya_String | [View Code](src/Lecture20/Kartik_Bhaiya_String.java) |
+| SubArraySum_Of_Size_K | [View Code](src/Lecture20/SubArraySum_Of_Size_K.java) |
+| Subarray_Product_LessThan_K | [View Code](src/Lecture20/Subarray_Product_LessThan_K.java) |
+
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
