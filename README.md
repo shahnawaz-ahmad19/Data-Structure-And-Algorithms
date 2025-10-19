@@ -207,3 +207,13 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 | Conversion_FahrenheitToCelsius | [View Code](src/Assignment02_NumberSystemAndDataTypes/Conversion_FahrenheitToCelsius.java) |
 | InverseOfNumber | [View Code](src/Assignment02_NumberSystemAndDataTypes/InverseOfNumber.java) |
 
+
+### Assignment03_Arrays
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Inverse_Of_Array | [View Code](src/Assignment03_Arrays/Inverse_Of_Array.java) |
+| Reverse_Of_Array | [View Code](src/Assignment03_Arrays/Reverse_Of_Array.java) |
+| Sort_Zeros_And_Ones | [View Code](src/Assignment03_Arrays/Sort_Zeros_And_Ones.java) |
+| Square_Of_Sorted_Array | [View Code](src/Assignment03_Arrays/Square_Of_Sorted_Array.java) |
+
