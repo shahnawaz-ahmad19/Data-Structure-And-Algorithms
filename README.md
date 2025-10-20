@@ -212,8 +212,12 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 
 | Problem Name | Solution Link |
 |--------------|---------------|
+| How_Many_Questions | [View Code](src/Assignment03_Arrays/How_Many_Questions.java) |
 | Inverse_Of_Array | [View Code](src/Assignment03_Arrays/Inverse_Of_Array.java) |
+| Nobita_Scored_Good_Marks | [View Code](src/Assignment03_Arrays/Nobita_Scored_Good_Marks.java) |
 | Reverse_Of_Array | [View Code](src/Assignment03_Arrays/Reverse_Of_Array.java) |
+| Running_Sum_Of_Arrays | [View Code](src/Assignment03_Arrays/Running_Sum_Of_Arrays.java) |
 | Sort_Zeros_And_Ones | [View Code](src/Assignment03_Arrays/Sort_Zeros_And_Ones.java) |
 | Square_Of_Sorted_Array | [View Code](src/Assignment03_Arrays/Square_Of_Sorted_Array.java) |
+| Von_Neuman_Loves_Binary | [View Code](src/Assignment03_Arrays/Von_Neuman_Loves_Binary.java) |
 
