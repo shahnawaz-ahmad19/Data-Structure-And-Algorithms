@@ -198,7 +198,6 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Running_Sum_Of_Arrays | [View](src/Assignment03_Arrays/Running_Sum_Of_Arrays.java) |
 | Sort_Zeros_And_Ones | [View](src/Assignment03_Arrays/Sort_Zeros_And_Ones.java) |
 | Square_Of_Sorted_Array | [View](src/Assignment03_Arrays/Square_Of_Sorted_Array.java) |
-| Valid_Anagram | [View](src/Assignment03_Arrays/Valid_Anagram.java) |
 | Von_Neuman_Loves_Binary | [View](src/Assignment03_Arrays/Von_Neuman_Loves_Binary.java) |
 
 ## 📦 Topic Based 
@@ -215,3 +214,9 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | PrimeNumber | [View](src/Basic_Maths/PrimeNumber.java) |
 | Reverse_Integer | [View](src/Basic_Maths/Reverse_Integer.java) |
 | Valid_Palindrome | [View](src/Basic_Maths/Valid_Palindrome.java) |
+
+### Strings
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Valid_Anagram | [View](src/Strings/Valid_Anagram.java) |
