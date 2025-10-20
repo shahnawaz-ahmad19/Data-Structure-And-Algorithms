@@ -79,7 +79,7 @@ if assignments:
 
 # Topics / Packages section (alphabetical)
 if topics:
-    lines.append("## 📦 Topics / Packages")
+    lines.append("## 📦 Topic Based ")
     lines.append("")
     # Sort folder names alphabetically, case-insensitive
     for folder in sorted(topics.keys(), key=lambda s: s.lower()):

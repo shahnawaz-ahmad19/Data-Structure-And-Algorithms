@@ -201,7 +201,7 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Valid_Anagram | [View](src/Assignment03_Arrays/Valid_Anagram.java) |
 | Von_Neuman_Loves_Binary | [View](src/Assignment03_Arrays/Von_Neuman_Loves_Binary.java) |
 
-## 📦 Topics / Packages
+## 📦 Topic Based 
 
 ### Basic_Maths
 
