@@ -20,7 +20,7 @@ Constraints:
 s and t consist of lowercase English letters.
  */
 
-package Assignment03_Arrays;
+package Strings;
 
 public class Valid_Anagram {
   public static void main(String[] args) {

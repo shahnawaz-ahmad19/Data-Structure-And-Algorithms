@@ -191,13 +191,16 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 
 | Problem Name | Solution Link |
 |--------------|---------------|
+| Arrays_Target_Sum_Triplets | [View](src/Assignment03_Arrays/Arrays_Target_Sum_Triplets.java) |
 | How_Many_Questions | [View](src/Assignment03_Arrays/How_Many_Questions.java) |
 | Inverse_Of_Array | [View](src/Assignment03_Arrays/Inverse_Of_Array.java) |
+| Majority_Element | [View](src/Assignment03_Arrays/Majority_Element.java) |
 | Nobita_Scored_Good_Marks | [View](src/Assignment03_Arrays/Nobita_Scored_Good_Marks.java) |
 | Reverse_Of_Array | [View](src/Assignment03_Arrays/Reverse_Of_Array.java) |
 | Running_Sum_Of_Arrays | [View](src/Assignment03_Arrays/Running_Sum_Of_Arrays.java) |
 | Sort_Zeros_And_Ones | [View](src/Assignment03_Arrays/Sort_Zeros_And_Ones.java) |
 | Square_Of_Sorted_Array | [View](src/Assignment03_Arrays/Square_Of_Sorted_Array.java) |
+| Two_Sum | [View](src/Assignment03_Arrays/Two_Sum.java) |
 | Von_Neuman_Loves_Binary | [View](src/Assignment03_Arrays/Von_Neuman_Loves_Binary.java) |
 
 ## 📦 Topic Based 
