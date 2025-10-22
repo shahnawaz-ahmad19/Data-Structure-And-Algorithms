@@ -228,6 +228,11 @@ public class Arrays_Target_Sum_Triplets {
   public static void findTriplets(int[] arr, int targetSum) {
     Arrays.sort(arr);
     for (int i = 0; i < arr.length - 2; i++) {
+      // If this element is the same as the one before it, we've already
+      // processed all triplets for it, so we skip.
+      if (i > 0 && arr[i] == arr[i - 1]) {
+        continue;
+      }
       int left = i + 1;
       int right = arr.length - 1;
       while (left < right) {
