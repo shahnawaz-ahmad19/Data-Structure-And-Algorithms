@@ -172,6 +172,15 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | PrintInDecreasingOrder | [View](src/Lecture21/PrintInDecreasingOrder.java) |
 | PrintInIncreasingOrder | [View](src/Lecture21/PrintInIncreasingOrder.java) |
 
+### Lecture22
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Factorial_Using_TailRecursive | [View](src/Lecture22/Factorial_Using_TailRecursive.java) |
+| Fibonacci_Using_Recursion | [View](src/Lecture22/Fibonacci_Using_Recursion.java) |
+| First_Occurence_OfElement | [View](src/Lecture22/First_Occurence_OfElement.java) |
+| Subsequence_Using_Recursion | [View](src/Lecture22/Subsequence_Using_Recursion.java) |
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
