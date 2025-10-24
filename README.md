@@ -218,6 +218,15 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 
 ## 📦 Topic Based 
 
+### Arrays_EasyProblem
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Maximum_Consecutive_1 | [View](src/Arrays_EasyProblem/Maximum_Consecutive_1.java) |
+| Missing_Number | [View](src/Arrays_EasyProblem/Missing_Number.java) |
+| Remove_Duplicates_from_Sorted_Array | [View](src/Arrays_EasyProblem/Remove_Duplicates_from_Sorted_Array.java) |
+| Rotate_Array | [View](src/Arrays_EasyProblem/Rotate_Array.java) |
+
 ### Basic_Maths
 
 | Problem Name | Solution Link |
