@@ -26,31 +26,31 @@ package Lecture12;
 
 public class Product_Of_Array_Except_Self {
   public static void main(String[] args) {
-    int [] arr = {2,3,5,6,8};
-    int [] ans = product(arr);
+    int[] arr = { 2, 3, 5, 6, 8 };
+    int[] ans = product(arr);
     for (int i = 0; i < ans.length; i++) {
-      System.out.print(ans[i]+" ");
+      System.out.print(ans[i] + " ");
     }
 
   }
 
-  public static int[] product(int[] arr){
+  public static int[] product(int[] arr) {
     int n = arr.length;
-    int [] leftproduct= new int[n];
-    leftproduct[0]=1;
-    //Step1. Calculating leftproduct
+    int[] leftproduct = new int[n];
+    leftproduct[0] = 1;
+    // Step1. Calculating leftproduct
     for (int i = 1; i < n; i++) {
-      leftproduct[i]=leftproduct[i-1]*arr[i-1];
+      leftproduct[i] = leftproduct[i - 1] * arr[i - 1];
     }
-    //Step2. Calculating rightProduct
-    int[] rightProduct=new int[n];
-    rightProduct[n-1] = 1;
-    for (int i = n-2; i >=0; i--) {
-      rightProduct[i]=rightProduct[i+1]*arr[i+1];
+    // Step2. Calculating rightProduct
+    int[] rightProduct = new int[n];
+    rightProduct[n - 1] = 1;
+    for (int i = n - 2; i >= 0; i--) {
+      rightProduct[i] = rightProduct[i + 1] * arr[i + 1];
     }
-    //Strep3.
-    for (int i = 0; i <n; i++) {
-      leftproduct[i]=leftproduct[i]*rightProduct[i];
+    // Strep3.
+    for (int i = 0; i < n; i++) {
+      leftproduct[i] = leftproduct[i] * rightProduct[i];
     }
     return leftproduct;
   }

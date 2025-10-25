@@ -227,6 +227,12 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Remove_Duplicates_from_Sorted_Array | [View](src/Arrays_EasyProblem/Remove_Duplicates_from_Sorted_Array.java) |
 | Rotate_Array | [View](src/Arrays_EasyProblem/Rotate_Array.java) |
 
+### Arrays_MediumProblem
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Sort_Colors | [View](src/Arrays_MediumProblem/Sort_Colors.java) |
+
 ### Basic_Maths
 
 | Problem Name | Solution Link |
