@@ -231,6 +231,7 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 
 | Problem Name | Solution Link |
 |--------------|---------------|
+| Best_Time_to_Buy_and_Sell_Stock | [View](src/Arrays_MediumProblem/Best_Time_to_Buy_and_Sell_Stock.java) |
 | Sort_Colors | [View](src/Arrays_MediumProblem/Sort_Colors.java) |
 
 ### Basic_Maths
