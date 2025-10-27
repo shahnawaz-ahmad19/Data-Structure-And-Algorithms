@@ -181,6 +181,14 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | First_Occurence_OfElement | [View](src/Lecture22/First_Occurence_OfElement.java) |
 | Subsequence_Using_Recursion | [View](src/Lecture22/Subsequence_Using_Recursion.java) |
 
+### Lecture23
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Coin_Toss | [View](src/Lecture23/Coin_Toss.java) |
+| Count_SubSequence | [View](src/Lecture23/Count_SubSequence.java) |
+| Count_SubSequence_Using_StaticVar | [View](src/Lecture23/Count_SubSequence_Using_StaticVar.java) |
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
