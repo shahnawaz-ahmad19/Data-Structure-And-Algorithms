@@ -233,6 +233,7 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Maximum_Consecutive_1 | [View](src/Arrays_EasyProblem/Maximum_Consecutive_1.java) |
 | Check_if_Array_Is_Sorted_and_Rotated | [View](src/Arrays_EasyProblem/Check_if_Array_Is_Sorted_and_Rotated.java) |
 | Missing_Number | [View](src/Arrays_EasyProblem/Missing_Number.java) |
+| Move_Zeros | [View](src/Arrays_EasyProblem/Move_Zeros.java) |
 | Remove_Duplicates_from_Sorted_Array | [View](src/Arrays_EasyProblem/Remove_Duplicates_from_Sorted_Array.java) |
 | Rotate_Array | [View](src/Arrays_EasyProblem/Rotate_Array.java) |
 | Single_Number | [View](src/Arrays_EasyProblem/Single_Number.java) |
@@ -242,6 +243,7 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Problem Name | Solution Link |
 |--------------|---------------|
 | Best_Time_to_Buy_and_Sell_Stock | [View](src/Arrays_MediumProblem/Best_Time_to_Buy_and_Sell_Stock.java) |
+| Rearrange_Array_Elements_by_Sign | [View](src/Arrays_MediumProblem/Rearrange_Array_Elements_by_Sign.java) |
 | Sort_Colors | [View](src/Arrays_MediumProblem/Sort_Colors.java) |
 
 ### Basic_Maths
