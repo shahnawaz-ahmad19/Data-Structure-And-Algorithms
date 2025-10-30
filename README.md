@@ -186,8 +186,10 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Problem Name | Solution Link |
 |--------------|---------------|
 | Coin_Toss | [View](src/Lecture23/Coin_Toss.java) |
+| Coin_Toss_With_No_Head | [View](src/Lecture23/Coin_Toss_With_No_Head.java) |
 | Count_SubSequence | [View](src/Lecture23/Count_SubSequence.java) |
 | Count_SubSequence_Using_StaticVar | [View](src/Lecture23/Count_SubSequence_Using_StaticVar.java) |
+| DiceRollWays | [View](src/Lecture23/DiceRollWays.java) |
 
 ## 📝 Assignments
 
