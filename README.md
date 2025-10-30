@@ -245,6 +245,7 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Problem Name | Solution Link |
 |--------------|---------------|
 | Best_Time_to_Buy_and_Sell_Stock | [View](src/Arrays_MediumProblem/Best_Time_to_Buy_and_Sell_Stock.java) |
+| Next_Permutation | [View](src/Arrays_MediumProblem/Next_Permutation.java) |
 | Rearrange_Array_Elements_by_Sign | [View](src/Arrays_MediumProblem/Rearrange_Array_Elements_by_Sign.java) |
 | Sort_Colors | [View](src/Arrays_MediumProblem/Sort_Colors.java) |
 
