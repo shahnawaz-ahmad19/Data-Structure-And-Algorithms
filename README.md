@@ -191,6 +191,14 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Count_SubSequence_Using_StaticVar | [View](src/Lecture23/Count_SubSequence_Using_StaticVar.java) |
 | DiceRollWays | [View](src/Lecture23/DiceRollWays.java) |
 
+### Lecture24
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Duplicate_String_Permutation | [View](src/Lecture24/Duplicate_String_Permutation.java) |
+| Generate_Parentheses | [View](src/Lecture24/Generate_Parentheses.java) |
+| String_Permutation | [View](src/Lecture24/String_Permutation.java) |
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
