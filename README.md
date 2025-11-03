@@ -199,6 +199,14 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Generate_Parentheses | [View](src/Lecture24/Generate_Parentheses.java) |
 | String_Permutation | [View](src/Lecture24/String_Permutation.java) |
 
+### Lecture25
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Count_Unique_Paths | [View](src/Lecture25/Count_Unique_Paths.java) |
+| Letter_Combinations_of_Phone_Number | [View](src/Lecture25/Letter_Combinations_of_Phone_Number.java) |
+| Print_Paths | [View](src/Lecture25/Print_Paths.java) |
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
