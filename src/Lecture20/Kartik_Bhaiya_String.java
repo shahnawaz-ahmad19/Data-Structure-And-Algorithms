@@ -53,7 +53,7 @@ public class Kartik_Bhaiya_String {
       }
       // shrinking window
       while (flip > k && startingIndex <= endingIndex) {
-        if (str.charAt(si) == ch) {
+        if (str.charAt(startingIndex) == ch) {
           flip--;
         }
       }

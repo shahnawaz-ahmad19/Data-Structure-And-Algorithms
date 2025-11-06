@@ -207,6 +207,13 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Letter_Combinations_of_Phone_Number | [View](src/Lecture25/Letter_Combinations_of_Phone_Number.java) |
 | Print_Paths | [View](src/Lecture25/Print_Paths.java) |
 
+### Lecture26
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Lexicographical_Numbers | [View](src/Lecture26/Lexicographical_Numbers.java) |
+| Print_Counting_Number_Lexicographically | [View](src/Lecture26/Print_Counting_Number_Lexicographically.java) |
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern
@@ -277,6 +284,15 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | PrimeNumber | [View](src/Basic_Maths/PrimeNumber.java) |
 | Reverse_Integer | [View](src/Basic_Maths/Reverse_Integer.java) |
 | Valid_Palindrome | [View](src/Basic_Maths/Valid_Palindrome.java) |
+
+### Java8
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Employee | [View](src/Java8/Employee.java) |
+| EmployeeTest | [View](src/Java8/EmployeeTest.java) |
+| StreamAPI | [View](src/Java8/StreamAPI.java) |
+| Student | [View](src/Java8/Student.java) |
 
 ### Strings
 
