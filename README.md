@@ -213,6 +213,14 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 |--------------|---------------|
 | Lexicographical_Numbers | [View](src/Lecture26/Lexicographical_Numbers.java) |
 | Print_Counting_Number_Lexicographically | [View](src/Lecture26/Print_Counting_Number_Lexicographically.java) |
+| Tower_Of_Hanoi | [View](src/Lecture26/Tower_Of_Hanoi.java) |
+
+### Lecture27
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Queens_Sitting_Combination | [View](src/Lecture27/Queens_Sitting_Combination.java) |
+| Queens_Sitting_Permutations | [View](src/Lecture27/Queens_Sitting_Permutations.java) |
 
 ## 📝 Assignments
 
