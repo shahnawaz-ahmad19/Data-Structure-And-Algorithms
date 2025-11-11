@@ -222,6 +222,15 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Queens_Sitting_Combination | [View](src/Lecture27/Queens_Sitting_Combination.java) |
 | Queens_Sitting_Permutations | [View](src/Lecture27/Queens_Sitting_Permutations.java) |
 
+### Lecture28
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Coins_Combination | [View](src/Lecture28/Coins_Combination.java) |
+| Coins_Permutation | [View](src/Lecture28/Coins_Permutation.java) |
+| Coins_Permutation_Using_Backtracking | [View](src/Lecture28/Coins_Permutation_Using_Backtracking.java) |
+| Combination_Sum | [View](src/Lecture28/Combination_Sum.java) |
+
 ## 📝 Assignments
 
 ### Assignment01_Pattern

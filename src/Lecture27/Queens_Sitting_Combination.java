@@ -1,3 +1,9 @@
+/*
+ * **"Given `n` distinct slots (a 1D board) and `k` (or `totalQueens`) identical queens, find all possible combinations of placing these `k` queens into the `n` slots.**
+
+**A combination is a unique set of chosen slots, regardless of the order. For example, placing queens at slots `[0, 1]` is considered the *same combination* as placing them at `[1, 0]`. Print all unique sets of placements."**
+*/
+
 package Lecture27;
 
 public class Queens_Sitting_Combination {

@@ -1,3 +1,11 @@
+/*
+ * > **Given n distinct slots (a 1D board) and k (or totalQueens) distinct queens, find all possible permutations of placing these k queens into the n slots.**
+> 
+> 
+> **Each slot can hold at most one queen. Print the sequence of all possible placements, identifying each placement by its slot number (b) and the queen's index (q)."**
+
+**For your input (`n=4`, `totalQueens=2`), this means: "Find all the ways to place Queen 0 and Queen 1 into 4 available slots."**
+*/
 package Lecture27;
 
 public class Queens_Sitting_Permutations {
