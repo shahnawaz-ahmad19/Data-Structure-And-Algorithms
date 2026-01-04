@@ -237,6 +237,15 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 |--------------|---------------|
 | LinkedList | [View](src/Lecture40/LinkedList.java) |
 
+### Lecture41
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Intersection_Of_Two_Linked_List | [View](src/Lecture41/Intersection_Of_Two_Linked_List.java) |
+| Linked_List_Cycle | [View](src/Lecture41/Linked_List_Cycle.java) |
+| Middle_Linked_List | [View](src/Lecture41/Middle_Linked_List.java) |
+| Reverse_Linked_List | [View](src/Lecture41/Reverse_Linked_List.java) |
+
 ### Lecture54
 
 | Problem Name | Solution Link |
