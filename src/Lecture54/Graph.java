@@ -80,4 +80,19 @@ public class Graph {
     visited.remove(src);
     return false;
   }
+
+  //checking all possible paths between two nodes
+  public void allPath(int src, int dest, HashSet<Integer> visited, String ans) {
+    if (src == dest) {
+      System.out.println(ans + src);
+      return;
+    }
+    visited.add(src);
+    for (int neighbours : map.get(src).keySet()) {
+      if (!visited.contains(neighbours)) {
+        allPath(neighbours, dest, visited, ans + src);
+      }
+    }
+    visited.remove(src);
+  }
 }

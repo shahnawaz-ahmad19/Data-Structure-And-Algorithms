@@ -15,7 +15,8 @@ public class Graph_Client {
     g.AddEdge(6, 7, 3);
     g.printGraph();
     System.out.println(g.hasPath(1, 7, new HashSet<>()));
+    //print all paths between two 
+    g.allPath(1, 6, new HashSet<>(), "");
   }
-  //print all paths between two nodes
 
 }

@@ -231,6 +231,12 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Coins_Permutation_Using_Backtracking | [View](src/Lecture28/Coins_Permutation_Using_Backtracking.java) |
 | Combination_Sum | [View](src/Lecture28/Combination_Sum.java) |
 
+### Lecture40
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| LinkedList | [View](src/Lecture40/LinkedList.java) |
+
 ### Lecture54
 
 | Problem Name | Solution Link |
