@@ -246,6 +246,14 @@ This repository contains my Java solutions for DSA topics, lectures and assignme
 | Middle_Linked_List | [View](src/Lecture41/Middle_Linked_List.java) |
 | Reverse_Linked_List | [View](src/Lecture41/Reverse_Linked_List.java) |
 
+### Lecture42
+
+| Problem Name | Solution Link |
+|--------------|---------------|
+| Cycle_Removal_Algo | [View](src/Lecture42/Cycle_Removal_Algo.java) |
+| Merge_Two_Sorted_List | [View](src/Lecture42/Merge_Two_Sorted_List.java) |
+| Sort_List | [View](src/Lecture42/Sort_List.java) |
+
 ### Lecture54
 
 | Problem Name | Solution Link |
